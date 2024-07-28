@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "R:\\1 Game Design\\C\u002B\u002B\\CollectCircles\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA61620-CA2B-4459-AC85-0BAE62FDA5EE}|CollectCircles\\CollectCircles.vcxproj|R:\\1 Game Design\\C\u002B\u002B\\CollectCircles\\CollectCircles\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4DA61620-CA2B-4459-AC85-0BAE62FDA5EE}|CollectCircles\\CollectCircles.vcxproj|solutionrelative:CollectCircles\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA61620-CA2B-4459-AC85-0BAE62FDA5EE}|CollectCircles\\CollectCircles.vcxproj|R:\\1 Game Design\\C\u002B\u002B\\CollectCircles\\CollectCircles\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4DA61620-CA2B-4459-AC85-0BAE62FDA5EE}|CollectCircles\\CollectCircles.vcxproj|solutionrelative:CollectCircles\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA61620-CA2B-4459-AC85-0BAE62FDA5EE}|CollectCircles\\CollectCircles.vcxproj|R:\\1 Game Design\\C\u002B\u002B\\CollectCircles\\CollectCircles\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4DA61620-CA2B-4459-AC85-0BAE62FDA5EE}|CollectCircles\\CollectCircles.vcxproj|solutionrelative:CollectCircles\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA61620-CA2B-4459-AC85-0BAE62FDA5EE}|CollectCircles\\CollectCircles.vcxproj|R:\\1 Game Design\\C\u002B\u002B\\CollectCircles\\CollectCircles\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4DA61620-CA2B-4459-AC85-0BAE62FDA5EE}|CollectCircles\\CollectCircles.vcxproj|solutionrelative:CollectCircles\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA61620-CA2B-4459-AC85-0BAE62FDA5EE}|CollectCircles\\CollectCircles.vcxproj|R:\\1 Game Design\\C\u002B\u002B\\CollectCircles\\CollectCircles\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4DA61620-CA2B-4459-AC85-0BAE62FDA5EE}|CollectCircles\\CollectCircles.vcxproj|solutionrelative:CollectCircles\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA61620-CA2B-4459-AC85-0BAE62FDA5EE}|CollectCircles\\CollectCircles.vcxproj|R:\\1 Game Design\\C\u002B\u002B\\CollectCircles\\CollectCircles\\CollectBall.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4DA61620-CA2B-4459-AC85-0BAE62FDA5EE}|CollectCircles\\CollectCircles.vcxproj|solutionrelative:CollectCircles\\CollectBall.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA61620-CA2B-4459-AC85-0BAE62FDA5EE}|CollectCircles\\CollectCircles.vcxproj|R:\\1 Game Design\\C\u002B\u002B\\CollectCircles\\CollectCircles\\CollectBall.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4DA61620-CA2B-4459-AC85-0BAE62FDA5EE}|CollectCircles\\CollectCircles.vcxproj|solutionrelative:CollectCircles\\CollectBall.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Game.h",
+              "DocumentMoniker": "R:\\1 Game Design\\C\u002B\u002B\\CollectCircles\\CollectCircles\\Game.h",
+              "RelativeDocumentMoniker": "CollectCircles\\Game.h",
+              "ToolTip": "R:\\1 Game Design\\C\u002B\u002B\\CollectCircles\\CollectCircles\\Game.h",
+              "RelativeToolTip": "CollectCircles\\Game.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-28T19:30:59.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Game.cpp",
+              "DocumentMoniker": "R:\\1 Game Design\\C\u002B\u002B\\CollectCircles\\CollectCircles\\Game.cpp",
+              "RelativeDocumentMoniker": "CollectCircles\\Game.cpp",
+              "ToolTip": "R:\\1 Game Design\\C\u002B\u002B\\CollectCircles\\CollectCircles\\Game.cpp",
+              "RelativeToolTip": "CollectCircles\\Game.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-28T19:32:10.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Player.h",
+              "DocumentMoniker": "R:\\1 Game Design\\C\u002B\u002B\\CollectCircles\\CollectCircles\\Player.h",
+              "RelativeDocumentMoniker": "CollectCircles\\Player.h",
+              "ToolTip": "R:\\1 Game Design\\C\u002B\u002B\\CollectCircles\\CollectCircles\\Player.h",
+              "RelativeToolTip": "CollectCircles\\Player.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-28T19:42:51.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Player.cpp",
+              "DocumentMoniker": "R:\\1 Game Design\\C\u002B\u002B\\CollectCircles\\CollectCircles\\Player.cpp",
+              "RelativeDocumentMoniker": "CollectCircles\\Player.cpp",
+              "ToolTip": "R:\\1 Game Design\\C\u002B\u002B\\CollectCircles\\CollectCircles\\Player.cpp",
+              "RelativeToolTip": "CollectCircles\\Player.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-28T19:42:52.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CollectBall.h",
+              "DocumentMoniker": "R:\\1 Game Design\\C\u002B\u002B\\CollectCircles\\CollectCircles\\CollectBall.h",
+              "RelativeDocumentMoniker": "CollectCircles\\CollectBall.h",
+              "ToolTip": "R:\\1 Game Design\\C\u002B\u002B\\CollectCircles\\CollectCircles\\CollectBall.h",
+              "RelativeToolTip": "CollectCircles\\CollectBall.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-28T20:00:36.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CollectBall.cpp",
+              "DocumentMoniker": "R:\\1 Game Design\\C\u002B\u002B\\CollectCircles\\CollectCircles\\CollectBall.cpp",
+              "RelativeDocumentMoniker": "CollectCircles\\CollectBall.cpp",
+              "ToolTip": "R:\\1 Game Design\\C\u002B\u002B\\CollectCircles\\CollectCircles\\CollectBall.cpp",
+              "RelativeToolTip": "CollectCircles\\CollectBall.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-28T20:00:41.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "main.cpp",
+              "DocumentMoniker": "R:\\1 Game Design\\C\u002B\u002B\\CollectCircles\\CollectCircles\\main.cpp",
+              "RelativeDocumentMoniker": "CollectCircles\\main.cpp",
+              "ToolTip": "R:\\1 Game Design\\C\u002B\u002B\\CollectCircles\\CollectCircles\\main.cpp",
+              "RelativeToolTip": "CollectCircles\\main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-28T21:26:52.224Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
